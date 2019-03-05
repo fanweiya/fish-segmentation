@@ -1,4 +1,4 @@
-#U-Net <img src=images/sample_fish.png />
+# improve U-Net <img src=images/sample_fish.png />
 
 
 This repository contains a simple keras implementation of an improve U-Net for semantic segmentation of fish images, using [this dataset](http://groups.inf.ed.ac.uk/f4k/GROUNDTRUTH/RECOG/) by B. J. Boom, P. X. Huang and J. He, R. B. Fisher [1].
